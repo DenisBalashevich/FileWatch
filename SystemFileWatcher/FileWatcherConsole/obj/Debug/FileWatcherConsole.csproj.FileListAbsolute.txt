@@ -1,0 +1,14 @@
+c:\users\acer\documents\visual studio 2015\Projects\SystemFileWatcher\FileWatcherConsole\bin\Debug\FileWatcherConsole.exe.config
+C:\Users\Acer\Documents\visual studio 2015\Projects\SystemFileWatcher\FileWatcherConsole\bin\Debug\FileWatcherConsole.exe
+C:\Users\Acer\Documents\visual studio 2015\Projects\SystemFileWatcher\FileWatcherConsole\bin\Debug\FileWatcherConsole.pdb
+C:\Users\Acer\Documents\visual studio 2015\Projects\SystemFileWatcher\FileWatcherConsole\obj\Debug\FileWatcherConsole.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\visual studio 2015\Projects\SystemFileWatcher\FileWatcherConsole\obj\Debug\FileWatcherConsole.exe
+C:\Users\Acer\Documents\visual studio 2015\Projects\SystemFileWatcher\FileWatcherConsole\obj\Debug\FileWatcherConsole.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\SystemFileWatcher\FileWatcherConsole\obj\Debug\FileWatcherConsole.Resources.Strings.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\SystemFileWatcher\FileWatcherConsole\obj\Debug\FileWatcherConsole.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\SystemFileWatcher\FileWatcherConsole\bin\Debug\ru-Ru\FileWatcherConsole.resources.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\SystemFileWatcher\FileWatcherConsole\obj\Debug\FileWatcherConsole.Resources.Strings.ru-Ru.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\SystemFileWatcher\FileWatcherConsole\obj\Debug\ru-Ru\FileWatcherConsole.resources.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\SystemFileWatcher\FileWatcherConsole\bin\Debug\be-BY\FileWatcherConsole.resources.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\SystemFileWatcher\FileWatcherConsole\obj\Debug\FileWatcherConsole.Resources.Strings.be-BY.resources
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\SystemFileWatcher\FileWatcherConsole\obj\Debug\be-BY\FileWatcherConsole.resources.dll
